@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2019.07.05 08:45:19.890,=D:\delphi\Unit1.pas</Transaction>
+    <Transaction>2019.07.05 08:45:40.406,D:\delphi\projects\http_requests\UMain.dfm=D:\delphi\Unit1.dfm</Transaction>
+    <Transaction>2019.07.05 08:45:40.406,D:\delphi\projects\http_requests\UMain.pas=D:\delphi\Unit1.pas</Transaction>
+    <Transaction>2019.07.05 08:45:45.884,D:\delphi\projects\http_requests\http_requests.dproj=D:\delphi\Project1.dproj</Transaction>
+    <Transaction>2019.07.05 09:11:42.475,=D:\delphi\projects\http_requests\Unit1.pas</Transaction>
+    <Transaction>2019.07.05 09:14:22.754,D:\delphi\projects\http_requests\UAddDialog.dfm=D:\delphi\projects\http_requests\Unit1.dfm</Transaction>
+    <Transaction>2019.07.05 09:14:22.754,D:\delphi\projects\http_requests\UAddDialog.pas=D:\delphi\projects\http_requests\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
