@@ -1,8 +1,8 @@
 # httpRequests
 Simple Http Requester with some useful features
-- Can take post params from a file
-- Can add cookie params
-- Can filter http response with regular expression
+- You can address a file to a post parameter (which you can make several post requests)
+- You can add cookie parameters
+- You can filter http response result with regular expression
 
 coded in Delphi 10.3 using Indy Http Client
 
